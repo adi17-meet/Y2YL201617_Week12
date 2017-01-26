@@ -8,7 +8,7 @@
 Fork this repo to your own account and clone it to your desktop
 
 ## Step 2: Get it up and running
-Go ahead and run the ```populateDB.py``` script in your repository to populate your database.  Then run ```webapp.py``` to see that it is properly functioning.  You should see that we have a working app but with minimal design
+Go ahead and run the ```populateDB.py``` script in your repository to populate your database.  Then run ```webapp.py``` to see that itpy is properly functioning.  You should see that we have a working app but with minimal design
 
 ## Step 3:  Add a Procfile
 The Heroku cloud application looks for a file called ```Procfile``` (there no extention on this file so do not add anything like .txt or .html to the end of it) In Sublime create a file called ```Procfile``` that contains the following configuration information:
